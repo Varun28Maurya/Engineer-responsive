@@ -1,0 +1,42 @@
+[
+  {
+    "id": "proj-1",
+    "name": "Skyline Residency",
+    "ownerId": "owner-1",
+    "engineerId": "eng-1",
+    "location": "Worli, Mumbai",
+    "lat": 19.017615,
+    "lng": 72.856164,
+    "radius": 150
+  },
+  {
+    "id": "proj-2",
+    "name": "Green Valley Villas",
+    "ownerId": "owner-1",
+    "engineerId": "eng-1",
+    "location": "Sector 45, Gurgaon",
+    "lat": 28.442200,
+    "lng": 77.072900,
+    "radius": 200
+  },
+  {
+    "id": "proj-3",
+    "name": "Riverfront Plaza",
+    "ownerId": "owner-2",
+    "engineerId": "eng-2",
+    "location": "Sabarmati, Ahmedabad",
+    "lat": 23.060000,
+    "lng": 72.580000,
+    "radius": 180
+  },
+  {
+    "id": "proj-4",
+    "name": "Hilltop Heights",
+    "ownerId": "owner-3",
+    "engineerId": "eng-3",
+    "location": "Lonavala, Maharashtra",
+    "lat": 18.754600,
+    "lng": 73.409200,
+    "radius": 250
+  }
+]

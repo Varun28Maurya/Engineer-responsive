@@ -1,0 +1,43 @@
+{
+  "owners": [
+    {
+      "id": "owner-1",
+      "name": "Owner One",
+      "role": "OWNER",
+      "phone": "8104751559"
+    },
+    {
+      "id": "owner-2",
+      "name": "Owner Two",
+      "role": "OWNER",
+      "phone": "8104036846"
+    },
+    {
+      "id": "owner-3",
+      "name": "Owner Three",
+      "role": "OWNER",
+      "phone": "7738318434"
+    }
+  ],
+
+  "engineers": [
+    {
+      "id": "eng-1",
+      "name": "Site Engineer One",
+      "role": "ENGINEER",
+      "phone": "2812200666"
+    },
+    {
+      "id": "eng-2",
+      "name": "Site Engineer Two",
+      "role": "ENGINEER",
+      "phone": "9900445566"
+    },
+    {
+      "id": "eng-3",
+      "name": "Site Engineer Three",
+      "role": "ENGINEER",
+      "phone": "9900778899"
+    }
+  ]
+}

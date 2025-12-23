@@ -1,0 +1,90 @@
+[
+  {
+    "id": "msg-101",
+    "projectId": "proj-1",
+    "projectName": "Skyline Residency",
+
+    "sender": {
+      "id": "eng-1",
+      "role": "ENGINEER",
+      "name": "Site Engineer"
+    },
+    "receiver": {
+      "id": "owner-1",
+      "role": "OWNER",
+      "name": "Project Owner"
+    },
+
+    "message": "Column casting for 4th floor will be completed by today evening.",
+    "type": "TEXT",
+
+    "createdAt": "2025-03-06T10:15:00",
+    "status": "SENT"
+  },
+  {
+    "id": "msg-102",
+    "projectId": "proj-1",
+    "projectName": "Skyline Residency",
+
+    "sender": {
+      "id": "owner-1",
+      "role": "OWNER",
+      "name": "Project Owner"
+    },
+    "receiver": {
+      "id": "eng-1",
+      "role": "ENGINEER",
+      "name": "Site Engineer"
+    },
+
+    "message": "Okay, please share photos once done.",
+    "type": "TEXT",
+
+    "createdAt": "2025-03-06T10:18:00",
+    "status": "DELIVERED"
+  },
+  {
+    "id": "msg-201",
+    "projectId": "proj-2",
+    "projectName": "Green Valley Villas",
+
+    "sender": {
+      "id": "eng-1",
+      "role": "ENGINEER",
+      "name": "Site Engineer"
+    },
+    "receiver": {
+      "id": "owner-1",
+      "role": "OWNER",
+      "name": "Project Owner"
+    },
+
+    "message": "We need additional steel bars for foundation work.",
+    "type": "TEXT",
+
+    "createdAt": "2025-03-06T09:40:00",
+    "status": "READ"
+  },
+  {
+    "id": "msg-301",
+    "projectId": "proj-3",
+    "projectName": "Riverfront Plaza",
+
+    "sender": {
+      "id": "eng-2",
+      "role": "ENGINEER",
+      "name": "Site Engineer"
+    },
+    "receiver": {
+      "id": "owner-2",
+      "role": "OWNER",
+      "name": "Project Owner"
+    },
+
+    "message": "Waterproofing work will start tomorrow.",
+    "type": "TEXT",
+
+    "createdAt": "2025-03-05T17:20:00",
+    "status": "SENT"
+  }
+]

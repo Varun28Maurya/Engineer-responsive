@@ -1,0 +1,52 @@
+[
+  {
+    "id": "task-1",
+    "title": "Column Casting – 4th Floor",
+    "projectId": "proj-1",
+    "projectName": "Skyline Residency",
+    "assignedTo": "eng-1",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "dueDate": "2025-03-05"
+  },
+  {
+    "id": "task-2",
+    "title": "Electrical Conduit Layout",
+    "projectId": "proj-1",
+    "projectName": "Skyline Residency",
+    "assignedTo": "eng-1",
+    "priority": "MEDIUM",
+    "status": "PENDING",
+    "dueDate": "2025-03-07"
+  },
+  {
+    "id": "task-3",
+    "title": "Foundation PCC Work",
+    "projectId": "proj-2",
+    "projectName": "Green Valley Villas",
+    "assignedTo": "eng-1",
+    "priority": "HIGH",
+    "status": "IN_PROGRESS",
+    "dueDate": "2025-03-06"
+  },
+  {
+    "id": "task-4",
+    "title": "Excavation – Block B",
+    "projectId": "proj-2",
+    "projectName": "Green Valley Villas",
+    "assignedTo": "eng-1",
+    "priority": "LOW",
+    "status": "COMPLETED",
+    "dueDate": "2025-02-28"
+  },
+  {
+    "id": "task-5",
+    "title": "Basement Waterproofing",
+    "projectId": "proj-3",
+    "projectName": "Riverfront Plaza",
+    "assignedTo": "eng-2",
+    "priority": "HIGH",
+    "status": "PENDING",
+    "dueDate": "2025-03-10"
+  }
+]

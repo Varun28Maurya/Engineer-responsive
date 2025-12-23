@@ -1,0 +1,41 @@
+[
+  {
+    "id": "att-101",
+    "projectId": "proj-1",
+    "date": "2025-03-06",
+
+    "workerName": "Ramesh Kumar",
+    "role": "Mason",
+    "wagePerDay": 700,
+
+    "status": "PRESENT",
+    "markedBy": "eng-1",
+    "markedAt": "2025-03-06T09:15"
+  },
+  {
+    "id": "att-102",
+    "projectId": "proj-1",
+    "date": "2025-03-06",
+
+    "workerName": "Suresh Yadav",
+    "role": "Helper",
+    "wagePerDay": 500,
+
+    "status": "PRESENT",
+    "markedBy": "eng-1",
+    "markedAt": "2025-03-06T09:17"
+  },
+  {
+    "id": "att-201",
+    "projectId": "proj-1",
+    "date": "2025-03-05",
+
+    "workerName": "Ramesh Kumar",
+    "role": "Mason",
+    "wagePerDay": 700,
+
+    "status": "PRESENT",
+    "markedBy": "eng-1",
+    "markedAt": "2025-03-05T09:10"
+  }
+]
